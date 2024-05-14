@@ -310,9 +310,3 @@ img {
   background: #2e2f42;
   padding: 100px 0;
 }
-.container-footer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 16px;
-}
